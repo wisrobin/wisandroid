@@ -1,10 +1,4 @@
 wisandroid
 ==========
 
-自我学习android第一个项目
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/wisrobin/wisandroid.git
-git push -u origin master
+自我学习android第一个项目，欢迎大家一起分享，共同进步！
